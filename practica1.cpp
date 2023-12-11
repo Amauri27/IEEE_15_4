@@ -32,7 +32,7 @@ factory_frame Frame;
 int option = 0;
 int main(){
 
-    
+ //interfaz de usuario con opciones para decodificar la trama   
     do{
         cout << "1.- Mostrar direccion mac"<<endl;
         cout << "2.- Mostrar la longitud del mensaje"<<endl;
